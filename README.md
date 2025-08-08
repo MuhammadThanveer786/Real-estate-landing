@@ -16,4 +16,4 @@ A modern and visually appealing Real Estate Landing Page built using **React.js*
 - React.js
 - Tailwind CSS
 - Vite
-- ESLint (with custom rules)
+
